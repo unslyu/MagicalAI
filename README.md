@@ -1,1 +1,1 @@
-Really simple code that remebers how happy you are.
+Really simple code that remembers how happy you are.
